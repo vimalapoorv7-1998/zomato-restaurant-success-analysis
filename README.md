@@ -31,8 +31,8 @@ A restaurant brand expanding across Indian metros cannot use a single playbook. 
 
 This project intentionally divides work between two tools based on what each does best — not convenience.
 
-| Layer | Tool | Why This Tool |
-|-------|------|--------------|
+| Layer | Tool |
+|-------|------|
 | Data Cleaning | Python (pandas) |
 | Statistical Testing | Python (scipy) |
 | EDA & Business Charts | Python (matplotlib, seaborn) |

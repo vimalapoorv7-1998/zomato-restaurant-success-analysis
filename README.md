@@ -144,7 +144,7 @@ City-relative engagement threshold ensures Delhi restaurants are not unfairly pe
 
 ### Delhi — The Premium Market
 - 17% success rate (4/24 restaurants) — most selective
-- Successful restaurants charge **₹107 more** — the largest premium gap in the dataset
+- Successful restaurants charge **₹146 more** — the largest premium gap in the dataset
 - **Desserts** lead success rate — experience-driven over functional dining
 - Winners **promote far less** (13.0% vs 13.6%) — over-promotion is a negative signal here
 
@@ -167,7 +167,7 @@ The dashboard has 5 pages, each answering a distinct business question:
 
 **DAX Measures built:** Success Rate, Price Premium of Success, Rating vs City Average (using ALLEXCEPT), Promoted Item Share, Dynamic Page Title, Budget/Mid-Range/Premium Share, Avg Items Successful vs Unsuccessful.
 
-See `reports/Zomato_Restaurant_Analysis.pdf` for the exported dashboard.
+See `power-bi-reports/Zomato_Restaurant_Analysis.pdf` for the exported dashboard.
 
 
 ---
